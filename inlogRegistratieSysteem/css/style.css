@@ -1,0 +1,12 @@
+.content{
+    background-color: #E9ECEF;
+    min-height: 50vh;
+    padding: 2em;
+}
+
+.footer{
+    background-color: #F8F9FA;
+    min-height: 10vh;
+    padding: 2em;
+}
+
