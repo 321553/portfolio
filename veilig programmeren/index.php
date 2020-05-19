@@ -10,7 +10,7 @@
     $Docent->setAchternaam('Influenza');
     $Docent->setTel('064343655');
     $Studierichting->setOmschrijving('Oude richting');
-    $Klas->setOmschrijving('Kutklaslol');
+    $Klas->setOmschrijving('Klas');
     $Klas->setStudierichting('DDR');
     $Klas->setMentor('HOI');
 
